@@ -1,0 +1,17 @@
+{
+  "name": "VEQ",
+  "manufacturer": "BC",
+  "version": "1.2.0",
+  "format": "vst2",
+  "kind": "effect",
+  "uid": "BhOs",
+  "numInputs": 2,
+  "numOutputs": 2,
+  "category": "Effect",
+  "file32": "VST/veq-arm32.so",
+  "file64": "VST/veq-arm64.so",
+  "description": "VEQ: an eight-band EQ control prototype with a static response-grid UI and master input gain.",
+  "author": "BC",
+  "url": "",
+  "license": "MIT"
+}

@@ -6,10 +6,6 @@ dist/
 .sdk-tools/
 .venv/
 
-# Users' own plugin projects live here; the SDK repo only tracks the placeholder
-plugins/*
-!plugins/.gitkeep
-
 # Python
 __pycache__/
 *.pyc
