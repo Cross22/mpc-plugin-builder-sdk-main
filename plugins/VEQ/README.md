@@ -10,11 +10,13 @@ tabs to switch which group of four is mapped to the Q-Links; all eight band
 columns remain visible. A compact footer provides working master input gain
 and placeholder Analyze / Debug buttons.
 
-The graph is a static, flat 0 dB placeholder. The MPC scripted skin format
-does not provide a way to render a parameter-driven combined response curve.
-The band controls do not alter audio. The master control applies smoothed gain
-from -24 dB to +24 dB to the stereo input. Analyze and Debug are UI placeholders
-and do not initiate processing.
+The graph retains its flat 0 dB reference line and includes a fixed cubic test
+curve with one colored marker per band. This overlay is visual-only and does
+not follow parameter changes. The MPC scripted skin format does not provide a
+way to render a parameter-driven combined response curve. The band controls do
+not alter audio. The master control applies smoothed gain from -24 dB to +24 dB
+to the stereo input. Analyze and Debug are UI placeholders and do not initiate
+processing.
 
 ## Build and test
 

@@ -2224,6 +2224,234 @@
                 "version": 2,
                 "componentData": {
                   "version": 1,
+                  "name": "test response path",
+                  "type": "Path",
+                  "data": {
+                    "version": 1,
+                    "handleName": "Invalid",
+                    "path": "m 80 185 c 133.33 163.33 186.67 123.33 240.00 120.00 c 293.33 116.67 346.67 149.17 400.00 165.00 c 453.33 180.83 506.67 204.17 560.00 215.00 c 613.33 225.83 666.67 241.67 720.00 230.00 c 773.33 218.33 826.67 166.67 880.00 145.00 c 933.33 123.33 986.67 95.00 1040.00 100.00 c 1093.33 105.00 1146.67 150.00 1200.00 175.00",
+                    "drawPath": true,
+                    "colour": "fff7f9ff",
+                    "opacity": 0.95
+                  }
+                },
+                "handle remapping": {
+                  "version": 1,
+                  "map": []
+                },
+                "bounds": {
+                  "version": 1,
+                  "acceptsHWFocus": "No",
+                  "showWhenDataModelInvalid": "Show",
+                  "whenVisible": "Always",
+                  "boundsType": "Absolute",
+                  "bounds": "0 55 1280 300"
+                }
+              },
+              {
+                "version": 2,
+                "componentData": {
+                  "version": 1,
+                  "name": "test response point 1",
+                  "type": "Image",
+                  "data": {
+                    "version": 1,
+                    "colour": "0",
+                    "image": "markers/band1.png"
+                  }
+                },
+                "handle remapping": {
+                  "version": 1,
+                  "map": []
+                },
+                "bounds": {
+                  "version": 1,
+                  "acceptsHWFocus": "No",
+                  "showWhenDataModelInvalid": "Show",
+                  "whenVisible": "Always",
+                  "boundsType": "Absolute",
+                  "bounds": "68 228 24 24"
+                }
+              },
+              {
+                "version": 2,
+                "componentData": {
+                  "version": 1,
+                  "name": "test response point 2",
+                  "type": "Image",
+                  "data": {
+                    "version": 1,
+                    "colour": "0",
+                    "image": "markers/band2.png"
+                  }
+                },
+                "handle remapping": {
+                  "version": 1,
+                  "map": []
+                },
+                "bounds": {
+                  "version": 1,
+                  "acceptsHWFocus": "No",
+                  "showWhenDataModelInvalid": "Show",
+                  "whenVisible": "Always",
+                  "boundsType": "Absolute",
+                  "bounds": "228 163 24 24"
+                }
+              },
+              {
+                "version": 2,
+                "componentData": {
+                  "version": 1,
+                  "name": "test response point 3",
+                  "type": "Image",
+                  "data": {
+                    "version": 1,
+                    "colour": "0",
+                    "image": "markers/band3.png"
+                  }
+                },
+                "handle remapping": {
+                  "version": 1,
+                  "map": []
+                },
+                "bounds": {
+                  "version": 1,
+                  "acceptsHWFocus": "No",
+                  "showWhenDataModelInvalid": "Show",
+                  "whenVisible": "Always",
+                  "boundsType": "Absolute",
+                  "bounds": "388 208 24 24"
+                }
+              },
+              {
+                "version": 2,
+                "componentData": {
+                  "version": 1,
+                  "name": "test response point 4",
+                  "type": "Image",
+                  "data": {
+                    "version": 1,
+                    "colour": "0",
+                    "image": "markers/band4.png"
+                  }
+                },
+                "handle remapping": {
+                  "version": 1,
+                  "map": []
+                },
+                "bounds": {
+                  "version": 1,
+                  "acceptsHWFocus": "No",
+                  "showWhenDataModelInvalid": "Show",
+                  "whenVisible": "Always",
+                  "boundsType": "Absolute",
+                  "bounds": "548 258 24 24"
+                }
+              },
+              {
+                "version": 2,
+                "componentData": {
+                  "version": 1,
+                  "name": "test response point 5",
+                  "type": "Image",
+                  "data": {
+                    "version": 1,
+                    "colour": "0",
+                    "image": "markers/band5.png"
+                  }
+                },
+                "handle remapping": {
+                  "version": 1,
+                  "map": []
+                },
+                "bounds": {
+                  "version": 1,
+                  "acceptsHWFocus": "No",
+                  "showWhenDataModelInvalid": "Show",
+                  "whenVisible": "Always",
+                  "boundsType": "Absolute",
+                  "bounds": "708 273 24 24"
+                }
+              },
+              {
+                "version": 2,
+                "componentData": {
+                  "version": 1,
+                  "name": "test response point 6",
+                  "type": "Image",
+                  "data": {
+                    "version": 1,
+                    "colour": "0",
+                    "image": "markers/band6.png"
+                  }
+                },
+                "handle remapping": {
+                  "version": 1,
+                  "map": []
+                },
+                "bounds": {
+                  "version": 1,
+                  "acceptsHWFocus": "No",
+                  "showWhenDataModelInvalid": "Show",
+                  "whenVisible": "Always",
+                  "boundsType": "Absolute",
+                  "bounds": "868 188 24 24"
+                }
+              },
+              {
+                "version": 2,
+                "componentData": {
+                  "version": 1,
+                  "name": "test response point 7",
+                  "type": "Image",
+                  "data": {
+                    "version": 1,
+                    "colour": "0",
+                    "image": "markers/band7.png"
+                  }
+                },
+                "handle remapping": {
+                  "version": 1,
+                  "map": []
+                },
+                "bounds": {
+                  "version": 1,
+                  "acceptsHWFocus": "No",
+                  "showWhenDataModelInvalid": "Show",
+                  "whenVisible": "Always",
+                  "boundsType": "Absolute",
+                  "bounds": "1028 143 24 24"
+                }
+              },
+              {
+                "version": 2,
+                "componentData": {
+                  "version": 1,
+                  "name": "test response point 8",
+                  "type": "Image",
+                  "data": {
+                    "version": 1,
+                    "colour": "0",
+                    "image": "markers/band8.png"
+                  }
+                },
+                "handle remapping": {
+                  "version": 1,
+                  "map": []
+                },
+                "bounds": {
+                  "version": 1,
+                  "acceptsHWFocus": "No",
+                  "showWhenDataModelInvalid": "Show",
+                  "whenVisible": "Always",
+                  "boundsType": "Absolute",
+                  "bounds": "1188 218 24 24"
+                }
+              },
+              {
+                "version": 2,
+                "componentData": {
+                  "version": 1,
                   "name": "static note",
                   "type": "Label",
                   "data": {
